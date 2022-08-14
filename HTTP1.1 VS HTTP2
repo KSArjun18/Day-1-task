@@ -1,0 +1,10 @@
+Difference between HTTP1.1 vs HTTP2
+HTTP1.1
+* HTTP1 loads a single request for every TCP connection
+* HTTP/1.1 has been around for more than a decade
+* HTTP (Hypertext Transfer Protocol) is a set of rules that runs on top of the TCP/IP suite of protocols and defines
+  How files are to be transferred between clients and servers on the world wide web.
+ HTTP2
+  * HTTP/2 achieves faster webpage loading without performance optimizations
+  * HTTP2 avoids network delay by using multiplexing
+  * HTTP/2 uses a more advanced compression method called HPACK that eliminates redundant information in HTTP header packets
